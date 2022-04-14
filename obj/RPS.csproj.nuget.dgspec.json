@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isaiah Snyder\\Documents\\Programming\\CodeWorks-Class\\04-04-22\\Lab\\RPS\\RPS.csproj": {}
+    "C:\\Users\\Isaiah Snyder\\Documents\\Programming\\C#\\ConsoleGames\\04-04-22-RPS\\RPS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isaiah Snyder\\Documents\\Programming\\CodeWorks-Class\\04-04-22\\Lab\\RPS\\RPS.csproj": {
+    "C:\\Users\\Isaiah Snyder\\Documents\\Programming\\C#\\ConsoleGames\\04-04-22-RPS\\RPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isaiah Snyder\\Documents\\Programming\\CodeWorks-Class\\04-04-22\\Lab\\RPS\\RPS.csproj",
+        "projectUniqueName": "C:\\Users\\Isaiah Snyder\\Documents\\Programming\\C#\\ConsoleGames\\04-04-22-RPS\\RPS.csproj",
         "projectName": "RPS",
-        "projectPath": "C:\\Users\\Isaiah Snyder\\Documents\\Programming\\CodeWorks-Class\\04-04-22\\Lab\\RPS\\RPS.csproj",
+        "projectPath": "C:\\Users\\Isaiah Snyder\\Documents\\Programming\\C#\\ConsoleGames\\04-04-22-RPS\\RPS.csproj",
         "packagesPath": "C:\\Users\\Isaiah Snyder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isaiah Snyder\\Documents\\Programming\\CodeWorks-Class\\04-04-22\\Lab\\RPS\\obj\\",
+        "outputPath": "C:\\Users\\Isaiah Snyder\\Documents\\Programming\\C#\\ConsoleGames\\04-04-22-RPS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Isaiah Snyder\\AppData\\Roaming\\NuGet\\NuGet.Config"

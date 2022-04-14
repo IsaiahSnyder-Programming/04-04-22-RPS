@@ -8,39 +8,34 @@ int computerScore = 0;
 int playerScore = 0;
 while (running)
 {
-    // string greeting = "Do you want to play a game? (yes/no)\n";
-    // for (int i = 0; i < greeting.Length; i++)
-    // {
-    //     Console.Write(greeting[i]);
-    //     Thread.Sleep(10);
-    // }
+    string greeting = "Do you want to play a game? (Y/N)\n";
+    for (int i = 0; i < greeting.Length; i++)
+    {
+        Console.Write(greeting[i]);
+        Thread.Sleep(40);
+    }
 
-    // string answer = Console.ReadLine().ToLower();
-    // if (answer == "yes")
-    // {
-    //     Thread.Sleep(1000);
-    //     Console.Clear();
+    string answer = Console.ReadLine().ToLower();
+    if (answer == "y")
+    {
+        Thread.Sleep(1000);
+        Console.Clear();
 
-    // }
-    // if (answer == "no")
-    // {
-    //     System.Console.WriteLine("Aw!");
-    // }
+    }
+    if (answer == "n")
+    {
+        System.Console.WriteLine("Aw!");
+    }
+    Thread.Sleep(1000);
+
 
 
 
     // SECTION Rock Paper Scissors
     {
         // NOTE Game Start
-        string leave = "Type 'leave' to leave the game.\n";
         string score = "Computer: " + computerScore + " | Player: " + playerScore + "\n";
         string gameStart = "Rock, Paper, Scissors:\n";
-        for (int i = 0; i < leave.Length; i++)
-        {
-            Console.Write(leave[i]);
-            Thread.Sleep(35);
-        }
-        Thread.Sleep(1000);
         for (int i = 0; i < score.Length; i++)
         {
             Console.Write(score[i]);

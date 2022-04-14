@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Grm+2GRkRUSAUolDqWD4R4DHxJY0LdNxAiLGW1WiNdmCntDB+1OvpLoaLfwoEgOaLODK4fMCXfKdBkSNY90Ouw==",
+  "dgSpecHash": "EYJJihiyO2/ymMomGD01iOYznLK7gHlxxtW1fCdwNn5VOkeBWxpZAvRDTQ+ALEAM6t+OA5N64ib6CWk/f42MrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Isaiah Snyder\\Documents\\Programming\\CodeWorks-Class\\04-04-22\\Lab\\RPS\\RPS.csproj",
+  "projectFilePath": "C:\\Users\\Isaiah Snyder\\Documents\\Programming\\C#\\ConsoleGames\\04-04-22-RPS\\RPS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
