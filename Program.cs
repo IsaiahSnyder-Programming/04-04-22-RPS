@@ -8,11 +8,16 @@ int computerScore = 0;
 int playerScore = 0;
 while (running)
 {
+    if (running == false)
+    {
+        Environment.Exit(0);
+    }
+
     string greeting = "Do you want to play a game? (Y/N)\n";
     for (int i = 0; i < greeting.Length; i++)
     {
         Console.Write(greeting[i]);
-        Thread.Sleep(40);
+        Thread.Sleep(10);
     }
 
     string answer = Console.ReadLine().ToLower();
@@ -24,7 +29,14 @@ while (running)
     }
     if (answer == "n")
     {
-        System.Console.WriteLine("Aw!");
+        System.Console.WriteLine("Bummer!");
+        Thread.Sleep(1000);
+        running = false;
+        Environment.Exit(0);
+    }
+    else
+    {
+        System.Console.WriteLine("Nope");
     }
     Thread.Sleep(1000);
 

@@ -28,3 +28,18 @@ C:\Users\Isaiah Snyder\Documents\Programming\C#\ConsoleGames\04-04-22-RPS\obj\De
 C:\Users\Isaiah Snyder\Documents\Programming\C#\ConsoleGames\04-04-22-RPS\obj\Debug\net6.0\RPS.pdb
 C:\Users\Isaiah Snyder\Documents\Programming\C#\ConsoleGames\04-04-22-RPS\obj\Debug\net6.0\RPS.genruntimeconfig.cache
 C:\Users\Isaiah Snyder\Documents\Programming\C#\ConsoleGames\04-04-22-RPS\obj\Debug\net6.0\ref\RPS.dll
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\bin\Debug\net6.0\RPS.exe
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\bin\Debug\net6.0\RPS.deps.json
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\bin\Debug\net6.0\RPS.runtimeconfig.json
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\bin\Debug\net6.0\RPS.dll
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\bin\Debug\net6.0\RPS.pdb
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\obj\Debug\net6.0\RPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\obj\Debug\net6.0\RPS.AssemblyInfoInputs.cache
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\obj\Debug\net6.0\RPS.AssemblyInfo.cs
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\obj\Debug\net6.0\RPS.csproj.CoreCompileInputs.cache
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\obj\Debug\net6.0\RPS.sourcelink.json
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\obj\Debug\net6.0\RPS.dll
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\obj\Debug\net6.0\refint\RPS.dll
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\obj\Debug\net6.0\RPS.pdb
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\obj\Debug\net6.0\RPS.genruntimeconfig.cache
+C:\Users\isaia\OneDrive\Desktop\C# Game Test\BCW-RPS\obj\Debug\net6.0\ref\RPS.dll
